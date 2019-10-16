@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\programki\projects\project_hangman\project_hangman\main.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\programki\projects\project_hangman\project_hangman\main.cpp(36): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Project_HangMan.vcxproj -> D:\Programki\Projects\Project_HangMan\Debug\Project_HangMan.exe
